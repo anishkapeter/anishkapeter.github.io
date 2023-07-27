@@ -2,7 +2,7 @@
 layout: page
 title: Analysis for Budweiser
 description: Analysis of a Beers and Breweries Dataset presented to Budweiser
-img: assets/img/12.jpg
+img: assets/img/beer.jpg
 importance: 1
 category: work
 ---
