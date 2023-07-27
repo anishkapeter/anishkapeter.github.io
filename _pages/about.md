@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: Grad Photo for OU.jpg
+  image: AnishkaPeter.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Southlake, TX 76092</p>
