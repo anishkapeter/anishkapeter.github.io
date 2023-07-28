@@ -4,7 +4,7 @@ title: Analysis for Budweiser
 description: Analysis of a Beers and Breweries Dataset presented to Budweiser
 img: assets/img/beer.jpg
 importance: 1
-category: work
+category: DDS
 ---
 
 <!DOCTYPE html>
