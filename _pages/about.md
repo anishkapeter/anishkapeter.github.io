@@ -23,7 +23,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Social Media Platforms:
 
-[LinkedIn](https://www.linkedin.com/in/anishkaapeter/) https://www.linkedin.com/in/anishkaapeter/
+[LinkedIn](https://www.linkedin.com/in/anishkaapeter/) 
 [Instagram](https://www.instagram.com/anishkapeter/)
 [Facebook](https://www.facebook.com/anishka.peter.52/)
 
