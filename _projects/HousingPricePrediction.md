@@ -2,7 +2,7 @@
 layout: page
 title: Housing Prediction 
 description: 
-img: assets/img/beer.jpg
+img: assets/img/neighborhood.jpg
 importance: 1
 category: Stats 1
 ---
