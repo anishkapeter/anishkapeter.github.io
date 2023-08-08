@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Housing Prediction 
-description: 
+description: Creating Models to Predict Sale Prices of Houses in Ames Iowa
 img: assets/img/neighborhood.jpg
 importance: 1
 category: Stats 1
